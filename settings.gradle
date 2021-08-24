@@ -1,0 +1,2 @@
+rootProject.name = "RDM"
+include ':app'
